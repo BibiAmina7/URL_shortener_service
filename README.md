@@ -177,9 +177,9 @@ urlshortener/
 
 All screenshots are in the `uploads/` folder. Example usage in markdown:
 
-![Short URL Creation](screenshots/shorten.jpg)
-![Redirect via Short URL](screenshots/redirect.jpg)
-![Analytics / Click Count](screenshots/analytics.jpg)
+![Short URL Creation](screenshots/shorten.png)
+![Redirect via Short URL](screenshots/redirect.png)
+![Analytics / Click Count](screenshots/analytics.png)
 
 ---
 
@@ -194,5 +194,6 @@ This project is open-source and free to use for learning or personal projects.
 **MCA Student | Aspiring Full Stack Developer & Data Analyst**
 
 ---
+
 
 
