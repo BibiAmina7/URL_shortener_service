@@ -2,6 +2,7 @@
 
 A URL Shortener built with Spring Boot and MySQL that allows users to convert long URLs into short, easy-to-share links and track their usage with analytics.
 > **Internship Project** - Developed as part of the CodeC Technologies Internship Program.
+
 ---
 
 ## Table of Contents
@@ -151,7 +152,10 @@ It will:
 - Simulate visiting the short URL
 - Fetch and display analytics
 
+---
+
 ### Project Structure
+
 ```
 urlshortener/
 ├── src/
@@ -171,14 +175,20 @@ urlshortener/
 ├── README.md
 └── test-urlshortener.ps1  # PowerShell test script
 ```
+
 ---
 
 ## 🖼️ Screenshots
 
 All screenshots are in the `uploads/` folder. Example usage in markdown:
 
+### Short URL Creation
 ![Short URL Creation](screenshots/shorten.png)
+
+### Redirect via Short URL
 ![Redirect via Short URL](screenshots/redirect.png)
+
+### Analytics / Click Count
 ![Analytics / Click Count](screenshots/analytics.png)
 
 ---
@@ -192,8 +202,3 @@ This project is open-source and free to use for learning or personal projects.
 
 **Bibi Amina**  
 **MCA Student | Aspiring Full Stack Developer & Data Analyst**
-
----
-
-
-
